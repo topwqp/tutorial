@@ -11,17 +11,17 @@
 
 #### 策略模式
 
-[策略模式视频教程](https://www.bilibili.com/video/BV1544y1B7yV/)
+[策略模式视频教程](https://www.bilibili.com/video/BV1544y1B7yV/)    ----> [对应文档](https://github.com/topwqp/tutorial/blob/main/design_pattern/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.md)
 
-[策略模式文档](https://github.com/topwqp/tutorial/blob/main/design_pattern/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.md)
+
 
 
 
 #### 模板方法
 
-[模板方法视频教程](https://www.bilibili.com/video/BV1Bh411h7MQ/)
+[模板方法视频教程](https://www.bilibili.com/video/BV1Bh411h7MQ/)   ----> [模板方法视频教程文档](https://github.com/topwqp/tutorial/blob/main/design_pattern/%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95.md)
 
-[模板方法视频教程文档](https://github.com/topwqp/tutorial/blob/main/design_pattern/%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95.md)
+
 
 
 
@@ -87,17 +87,15 @@
 
 
 
-[重构之阿里代码规范解读01](https://www.bilibili.com/video/BV1Ay4y137zx/)
+[重构之阿里代码规范解读01](https://www.bilibili.com/video/BV1Ay4y137zx/)     --->  [重构之代码规范解读文档01](https://github.com/topwqp/tutorial/blob/main/refactor/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%8301.md)
 
-[重构之阿里代码规范解读02](https://www.bilibili.com/video/BV1964y1679Y/)
+[重构之阿里代码规范解读02](https://www.bilibili.com/video/BV1964y1679Y/)     ---->  [重构之代码规范解读文档02](https://github.com/topwqp/tutorial/blob/main/refactor/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%8302.md)
 
 [重构之阿里代码规范解读03](https://www.bilibili.com/video/BV1AB4y1M7wJ/)
 
 
 
-[重构之代码规范解读文档01](https://github.com/topwqp/tutorial/blob/main/refactor/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%8301.md)
 
-[重构之代码规范解读文档02](https://github.com/topwqp/tutorial/blob/main/refactor/%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%8302.md)
 
 
 
@@ -113,8 +111,4 @@
 
 
 
-
-
-
-
-视频技术分享： https://space.bilibili.com/485594100   的 笔记地址
+视频技术分享： https://space.bilibili.com/485594100  
